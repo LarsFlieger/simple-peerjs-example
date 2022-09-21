@@ -7,6 +7,6 @@ Will create lobby and will wait for connection. If there is connection it will p
 #### `client.html`
 Will connect to host and send `hi!` if connected.
 <hr>
-Build with PeerJS Stable (1.3.1)
+Build with PeerJS Stable (1.4.7)
 
 Read more: https://peerjs.com/
